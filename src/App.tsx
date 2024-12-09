@@ -10,7 +10,7 @@ function App() {
     <div  data-testId="MainApp">
       {/*Don't remove the data-testId as it's required for the system to detect that the app is live */}
       <div>
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://vitejs.dev" target="_blank" >
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
